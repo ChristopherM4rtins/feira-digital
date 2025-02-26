@@ -1,0 +1,7 @@
+# React Native
+node_modules/
+.vscode/
+.idea/
+/android/build/
+/ios/build/
+.env
