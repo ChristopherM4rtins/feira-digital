@@ -1,6 +1,3 @@
-# feira-digital
-Aplicativo para gerenciar feirantes e clientes na feira digital
-
 # Feira Digital
 
 Aplicativo para gerenciar feirantes e clientes em uma plataforma digital de feiras. O app permite visualizar feirantes, adicionar novos produtos e visualizar os clientes cadastrados.
