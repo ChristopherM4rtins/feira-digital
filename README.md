@@ -41,4 +41,4 @@ Aplicativo para gerenciar feirantes e clientes em uma plataforma digital de feir
 
 ## Licença
 
-MIT
+
