@@ -24,8 +24,8 @@ const App = () => {
     },
   ]);
   const [clientes, setClientes] = useState([
-    { id: '1', nome: 'Christopher Martins', contato: '(48) 9 9684-4731)' },
-    { id: '2', nome: 'Sanderson José', contato: '(48) 9 9690-4729' }
+    { id: '1', nome: 'Christopher Martins', contato: '' },
+    { id: '2', nome: '', contato: '' }
   ]);
 
   const login = () => {
